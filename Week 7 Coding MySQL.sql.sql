@@ -1,1 +1,0 @@
-delete from  employees where emp_no In ('10048', '10099', '10234', '20089'); 
